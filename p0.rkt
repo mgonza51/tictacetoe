@@ -1,5 +1,7 @@
 #lang racket
 
+;;Meagan Gonzalez
+
 ;;; Project 0 Tic-tac-toe with Racket
 ;;; 
 ;;; Please immediately read README.md
