@@ -205,9 +205,4 @@
 
 
 
-;;; The board is the list containing E O X 
-;;; Player will always be 'O
-;;; returns a pair of x and y
-(define (calculate-next-move board player)
-  'todo)
 
